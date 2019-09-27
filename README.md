@@ -1,4 +1,6 @@
 # sagrado.m3u
+
+
 canais e filmes
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://bit.ly/tvolink-com" pltv-cover="https://bit.ly/tvolink-com" pltv-site="https://bit.ly/TvOlink" pltv-name="FILMES TvOlink" pltv-description="Listas iptv 2018 Filmes gratis - Tv o Link" pltv-author="TvOlink.com" pltv-email="euquero@tvol.ink"
@@ -1470,6 +1472,168 @@ http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TVCATV",MULTISHOW HD
 http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8#EXTM3U 
+
+
+<!DOCTYPE html>
+<html lang="pt-BR"
+prefix="og: http://ogp.me/ns#" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>Globo Ao Vivo | Assistir Globo Online Grátis HD | 24 Horas</title>
+<!-- All in One SEO Pack 3.2.4 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="Assistir TV Globo ao vivo online e grátis. O melhor site para você ver as programações de TV Online Globo ao vivo sem travar no aovivo.club!" />
+<meta name="keywords"  content="por assinatura,abertos,ao vivo,ao vivo online,tv online globo,tv globo online,ao vivo gratis,globo ao vivo,globo ao vivo online,globo ao vivo gratis,assistir ao vivo,assistir globo ao vivo,assistir globo  ao vivo online,assistir globo  ao vivo gratis" />
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://aovivo.club/#organization","url":"http://aovivo.club/","name":"Assistir TV Online Gr\u00e1tis","sameAs":[],"logo":{"@type":"ImageObject","@id":"http://aovivo.club/#logo","url":"http://aovivo.club/wp-content/uploads/2019/07/logotv.png","caption":""},"image":{"@id":"http://aovivo.club/#logo"}},{"@type":"WebSite","@id":"http://aovivo.club/#website","url":"http://aovivo.club/","name":"Assistir TV Online Gr\u00e1tis","publisher":{"@id":"http://aovivo.club/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://aovivo.club/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#webpage","url":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/","inLanguage":"pt-BR","name":"Globo","isPartOf":{"@id":"http://aovivo.club/#website"},"image":{"@type":"ImageObject","@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#primaryimage","url":"http://aovivo.club/wp-content/uploads/2019/07/globo-2.png","width":140,"height":140,"caption":"Globo SP\n"},"primaryImageOfPage":{"@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#primaryimage"},"datePublished":"2019-09-12T21:27:06+00:00","dateModified":"2019-09-20T15:14:06+00:00","description":"Assistir TV Globo ao vivo online e gr\u00e1tis. O melhor site para voc\u00ea ver as programa\u00e7\u00f5es de TV Online Globo ao vivo sem travar no aovivo.club!"},{"@type":"Article","@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#article","isPartOf":{"@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#webpage"},"author":{"@id":"http://aovivo.club/author/maitekorra/#author"},"headline":"Globo","datePublished":"2019-09-12T21:27:06+00:00","dateModified":"2019-09-20T15:14:06+00:00","commentCount":0,"mainEntityOfPage":{"@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#webpage"},"publisher":{"@id":"http://aovivo.club/#organization"},"articleSection":"Abertos","image":{"@type":"ImageObject","@id":"http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/#primaryimage","url":"http://aovivo.club/wp-content/uploads/2019/07/globo-2.png","width":140,"height":140,"caption":"Globo SP\n"}},{"@type":"Person","@id":"http://aovivo.club/author/maitekorra/#author","name":"maitekorra","sameAs":[],"image":{"@type":"ImageObject","@id":"http://aovivo.club/#personlogo","url":"http://0.gravatar.com/avatar/fa0f668963fe7197352901b7b97ae42f?s=96&d=mm&r=g","width":96,"height":96,"caption":"maitekorra"}}]}</script>
+<link rel="canonical" href="http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/" />
+<meta property="og:title" content="Globo Ao Vivo | Assistir Globo Online Grátis HD | 24 Horas" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://aovivo.club/assistir-tv-globo-ao-vivo-online-gratis-hd/" />
+<meta property="og:image" content="http://aovivo.club/wp-content/uploads/2019/07/globo-2.png" />
+<meta property="og:site_name" content="ASSISTIR TV ONLINE GRÁTIS" />
+<meta property="fb:app_id" content="391676788201768" />
+<meta property="og:description" content="Assistir TV Globo ao vivo online e grátis. O melhor site para você ver as programações de TV Online Globo ao vivo sem travar no aovivo.club!" />
+<meta property="article:published_time" content="2019-09-12T21:27:06Z" />
+<meta property="article:modified_time" content="2019-09-20T15:14:06Z" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Globo Ao Vivo | Assistir Globo Online Grátis HD | 24 Horas" />
+<meta name="twitter:description" content="Assistir TV Globo ao vivo online e grátis. O melhor site para você ver as programações de TV Online Globo ao vivo sem travar no aovivo.club!" />
+<meta name="twitter:image" content="http://aovivo.club/wp-content/uploads/2019/07/globo-2.png" />
+<script type="text/javascript" >
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-144177903-1', 'auto');
+// Plugins
+ga('send', 'pageview');
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Assistir TV Online Grátis &raquo;" href="http://aovivo.club/feed/" />
+<link rel='stylesheet' id='astra-theme-css-css'  href='//aovivo.club/wp-content/cache/wpfc-minified/1qg6vr8q/7xka8.css' type='text/css' media='all' />
+
+Assistir TV Online Grátis
+</a>
+</span>
+</div>			</div>
+</div>
+<!-- .site-branding -->
+<div class="ast-mobile-menu-buttons">
+<div class="ast-button-wrap">
+<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-fill "  aria-controls='primary-menu' aria-expanded='false'>
+<span class="screen-reader-text">Menu principal</span>
+<span class="menu-toggle-icon"></span>
+</button>
+</div>
+</div>
+<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="ast-flex-grow-1 navigation-accessibility" role="navigation" aria-label="Site Navigation"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border"><li id="menu-item-1955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1955"><a href="http://aovivo.club">Início</a></li>
+<li id="menu-item-1016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1016"><a href="http://aovivo.club/assistir-canais-de-esportes-ao-vivo/">Esportes</a></li>
+<li id="menu-item-1020" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1020"><a href="http://aovivo.club/assistir-canais-infantis-ao-vivo/">Infantis</a></li>
+<li id="menu-item-1015" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-1015"><a href="http://aovivo.club/assistir-canais-de-filmes-e-series-ao-vivo/">Filmes e Séries</a></li>
+<li id="menu-item-1019" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1019"><a href="http://aovivo.club/assistir-canais-de-documentarios-ao-vivo/">Documentários</a></li>
+<li id="menu-item-1017" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1017"><a href="http://aovivo.club/assistir-canais-abertos-ao-vivo/">Abertos</a></li>
+<li id="menu-item-1018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1018"><a href="http://aovivo.club/assistir-canais-de-variedades-ao-vivo/">Variedades</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1021"><a href="http://aovivo.club/assistir-canais-de-musicas-ao-vivo/">Canais de Música</a></li>
+<li id="menu-item-3061" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3061"><a href="http://aovivo.club/futebol-ao-vivo/">Jogos de Futebol</a></li>
+<li class="ast-masthead-custom-menu-items search-custom-menu-item">
+<div class="ast-search-menu-icon slide-search" id="ast-search-form" role="search" tabindex="-1">
+<div class="ast-search-icon">
+<a class="slide-search astra-search-icon" aria-label="Search icon link" href="#">
+<span class="screen-reader-text">Pesquisar</span>
+</a>
+</div>
+<form role="search" method="get" class="search-form" action="http://aovivo.club/">
+<label>
+<span class="screen-reader-text">Pesquisar por:</span>
+<input type="search" class="search-field"  placeholder="Pesquisar&hellip;" value="" name="s" role="search" tabindex="-1"/>
+</label>
+<button type="submit" class="search-submit" value="Pesquisar"><i class="astra-search-icon"></i></button>
+</form>		</div>
+</li>
+</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+</div><!-- ast-row -->
+</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+</header><!-- #masthead -->
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<main id="main" class="site-main" role="main">
+<article itemtype="https://schema.org/CreativeWork" itemscope="itemscope" id="post-844" class="post-844 post type-post status-publish format-standard has-post-thumbnail hentry category-assistir-canais-de-filmes-e-series-ao-vivo ast-article-single">
+<div class="ast-post-format- single-layout-1">
+<header class="entry-header ">
+<div class="post-thumb-img-content post-thumb"><img width="180" height="43" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 43'%3E%3C/svg%3E" class="attachment-large size-large wp-post-image lazyload" alt="HBO 1080p" itemprop="image" data-src="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" /><noscript><img width="180" height="43" src="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" class="attachment-large size-large wp-post-image" alt="HBO 1080p" itemprop="image" /></noscript></div>		<div class="ast-single-post-order">
+<h1 class="entry-title" itemprop="headline">HBO 1080p</h1><div class="entry-meta"><span class="cat-links"><a href="http://aovivo.club/assistir-canais-de-filmes-e-series-ao-vivo/" rel="category tag">Filmes e Séries</a></span></div>		</div>
+</header><!-- .entry-header -->
+<div class="entry-content clear" itemprop="text">
+<div class='code-block code-block-9 ai-viewport-3' style='margin: 0 auto; text-align: center; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Video Player Banner - 320x100 Top (Mobile) -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:320px;height:100px"
+data-ad-client="ca-pub-5089760546306195"
+data-ad-slot="5317256773"></ins>
+<script>
+
+
+ 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-3-100x100.png" group-title="Abertos", Globo nordeste
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_0590dde5f1a61afa9f5d329ca7360250898e5960.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="Abertos", Globo SP
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_430ccd2d0cc49bc02db908663c82c736b9a8bf44.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="Abertos", Band
+http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_91171fcfc68487fa07a3e96399d6cdbae4dc34a0/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="Abertos", Record
+http://edge.aovivo.club/hls/s:155.138.227.45/record_3554dce5_7c0dbcc1a61f505df031ab69d7ade5eeabd44f32/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/historyhd.png" group-title="Variedades", History HD
+http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_6257b0d2ebe5410b148bffe49b72824e58b0dd3d/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Variedades", History
+http://edge.aovivo.club/hls/s:45.32.217.66/history_b7eb6c68_87f809fabe8b8f51b51bf85989b651d2ccdff464/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Variedades", National Geographic
+http://edge.aovivo.club/hls/s:45.32.217.66/nationalgeographic_2e01e174_d7ffb40556918834c5ae55131ee1d3badfa9e064/720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png" group-title="Filmes e séries", Telecine premium HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_5a148dab0baacea2a345bf61e826046541c185cf/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="Filmes e séries", Telecine pipoca HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_1f9e64278389edf273f228469af97fa762b055d1.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="Filmes e séries", Telecine action HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_ab78b4c6d4445f6232beaae60bec6a5c35990e3e.m3u8
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="Filmes e Séries", HBO 1080p
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_45e27323160e7b1202d9c7eeee0abbc2b822c574.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="TVCATV",OFF
 http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
